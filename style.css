@@ -1,0 +1,11 @@
+form label {
+    margin-left: 5px;
+    color: blue;
+    font-weight: bold;
+    font-size: 1.25em;
+}
+
+form button {
+    margin-left: 10px;
+    font-size: 1.2em;
+}
